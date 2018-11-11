@@ -1,1 +1,28 @@
-# Training_05_Patterns_examples
+## Patterns examples
+### [gist with code and video links](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d)
+
+1.	[Abstract Factory](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-01-abstract-factory-md)
+2.	[Adapter](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-02-adapter-md)
+3.	[Bridge](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-03-bridge-md)
+4.	[Builder](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-04-builder-md)
+5.	[Chain of Responsibility](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-05-chain-of-responsibility-md)
+6.	[Command](https://gist.githutb.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-06-command-md)
+7.	[Composite](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-07-composite-md)
+8.	[Decorator](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-08-decorator-md)
+9.	[Facade](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-09-facade-md)
+10.	[Factory Method](https://gist.gihub.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-10-factory-method-md)
+11.	[Flyweight](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-11-flyweight-md)
+12.	[Interpreter](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-12-interpreter-md)
+13.	[Iterator](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-13-iterator-md)
+14.	[Mediator](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-14-mediator-md)
+15.	[Memento](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-15-memento-md)
+16.	[Prototype](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-16-prototype-md)
+17.	[Proxy](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-17-proxy-md)
+18.	[Observer](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-18-observer-md)
+19.	[Singleton](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-19-singletone-md)
+20.	[State](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-20-state-md)
+21.	[Strategy](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-21-strategy-md)
+22.	[Template Method](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-22-template-method-md)
+23.	[Visitor](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-23-visitor-md)
+
+
