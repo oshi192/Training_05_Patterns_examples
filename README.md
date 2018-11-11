@@ -1,0 +1,1 @@
+# Training_05_Patterns_examples
