@@ -1,5 +1,5 @@
 ## Patterns examples
-### [gist with code and video links](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d)
+### [gist with code and links (video / description)](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d)
 
 1.	[Abstract Factory](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-01-abstract-factory-md)
 2.	[Adapter](https://gist.github.com/oshi192/1a1a0c623f8e612336f4e5eaf2194e1d#file-02-adapter-md)
